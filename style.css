@@ -57,9 +57,9 @@
     }
 
     .experience-area {
-        background-image: url(images/exp-bg.png);
-        background-repeat: no-repeat;
-        background-position: left;
+       background-image: url(images/exp-bg.png);
+       background-repeat: no-repeat;
+       background-position: left;
     }
     footer p{
         text-align: center;
