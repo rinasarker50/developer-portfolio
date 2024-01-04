@@ -29,14 +29,7 @@
         width: 80%;
     }
 
-    .Link-button {
-        text-decoration: none;
-        background-image: linear-gradient(orange, tomato);
-        color: white;
-        font-weight: 700;
-        padding: 10px 40px;
-        border-radius: 5px;
-    }
+    .Link-button {}
 
     .top-banner {
         background-image: url(images/developer.png)
