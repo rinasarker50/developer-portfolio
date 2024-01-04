@@ -29,7 +29,15 @@
         width: 80%;
     }
 
-    .Link-button {}
+    .Link-button {
+        text-decoration: none;
+        background-color: tomato;
+        background-image: linear-gradient(orange tomato);
+        padding: 10px 40px;
+        color: white;
+        font-weight: 400;
+        border-radius: 10px;
+    }
 
     .top-banner {
         background-image: url(images/developer.png)
